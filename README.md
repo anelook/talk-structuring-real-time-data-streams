@@ -7,5 +7,5 @@
 
 ## Code samples
 - [BlueSky data to Kafka](https://github.com/anelook/blue-sky-to-kafka/tree/main)
-- 
+- [Generating IoT data into Kafka topic](https://github.com/anelook/iot-data-to-kafka/tree/main)
 
